@@ -1,5 +1,5 @@
 # Data Analysis and Visualization
-The projects in this Repository are assignments I completed as part of the Dataquest.io Data Science in Python Bootcamp. 
+The projects in this repository are assignments I completed as part of the Dataquest.io Data Science in Python Bootcamp. 
 
 Traffic indicators on I-94 practices the skill of using graphs to analyse data.  The project combines the use of different graphs to identify indicators of heavy traffic on I-94 between Minneapolis and Saint Paul for westbound traffic.  
 
