@@ -1,5 +1,5 @@
-# Data Visualization
-The projects in this repository are assignments I completed as part of the Dataquest.io Data Science in Python Bootcamp. 
+# Data-Visualization
+The projects in this repository are assignments I completed as part of the Dataquest.io Data Science in Python Bootcamp. These project focus on using graphing and visualization to analyse data
 
 * Storyteling Graphs practices using Matplotlib and the FiveThirtyEight style to create storytelling data visualizations. These graphs use pre-attentive attributes to help guide the audience's attention. 
 
